@@ -30,7 +30,7 @@
    - [x] The httpclient can pass all the tests in freetests.py
    - [ ] The webserver can pass all the tests in not-free-tests.py
      (you don't have this one! it can change -- but it will be fair to the user stories/requirements)
-   - [ x HTTP POST can post vars
+   - [x] HTTP POST can post vars
    - [x] HTTP POST handles at least Content-Type:
      application/x-www-form-urlencoded
    - [x] httpclient can handle 404 requests and 200 requests
